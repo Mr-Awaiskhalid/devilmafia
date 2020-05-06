@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - ERROR'X -OFFICAL----•◈•
+|__\~~) •||•AWAIS - KHALID--------------•◈•
+|__(-----\•◈•-----MASTERMIND TRICKER----•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92MR AWAIS KHALID
+\033[1HNO ONE CAN BEAT ME WITHOUT MY PERMISSION LOLX 🖕
+\033[1;96mFacebook  \033[1;93m: \033[1; Awaisx.officialx
+\033[1;96mGithub \033[1;93m: \033[1;92I DON'T NEED ANY GITHUB
 \033[1;91m======================================="""
 
 def tik():
@@ -80,10 +80,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAwais Khalid
+\033[1;96mInstagram \033[1;93m: \033[1;92mhaterz feel me
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Awaisx.officialx
+\033[1;96mGithub \033[1;93m: \033[1;92i dont meed any github
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -93,9 +93,9 @@ CorrectPassword = "rana"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
+    if (username == CorrectUsername):awaisx
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
+        if (password == CorrectPassword):devilx
             print "Logged in successfully as " + username
             loop = 'false'
         else:
